@@ -1,0 +1,8 @@
+(AE) T T T（D) Y T (AE) T  (AD)
+(AE) T T T  (D) Y T (AE) Q  (AD)
+(AT) E W Q H J Q
+(AT) E W Q H Q G
+(AH) Q G     (AH) J Q R E E W Q W
+(AT) E W Q H J Q
+(AT) E W Q H Q G
+(AH) Q G     (AH) J Q R E E W W Q
