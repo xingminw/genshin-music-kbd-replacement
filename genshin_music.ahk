@@ -12,13 +12,13 @@ $s::
 $q::
     Send, {a}{q}
     return
-$;::
+$,::
     Send, {m}{e}
     return
 $w::
     Send, {g}{e}
     return
-$,::
+$7::
     Send, {b}{s}{g}{j}
     return
 $.::
@@ -32,6 +32,18 @@ $1::
     return
 $3::
     Send, {c}{d}
+    return
+$5::
+    Send, {d}{q}
+    return
+$;::
+    Send, {g}{q}
+    return
+$4::
+    Send, {a}{w}
+    return
+$8::
+    Send, {b}{q}
     return
 r::q
 t::w
