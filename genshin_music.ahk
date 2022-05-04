@@ -15,7 +15,7 @@ $q::
 $,::
     Send, {m}{e}
     return
-$w::
+$4::
     Send, {g}{e}
     return
 $7::
@@ -39,10 +39,10 @@ $5::
 $;::
     Send, {g}{q}
     return
-$4::
+$w::
     Send, {a}{w}
     return
-$8::
+$'::
     Send, {b}{q}
     return
 r::q
